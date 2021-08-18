@@ -1,0 +1,26 @@
+header  {
+    display: flex;
+}
+
+.resized-img {
+    height: 125px;
+}
+
+.features {
+    background-color: red;
+    color: white;
+}
+
+.latest {
+    background-color: white;
+}
+
+.appendix {
+    background-color: grey;
+    border-top: 10px red solid;
+    color: white;
+}
+
+.footer {
+    background-color: black;
+}
